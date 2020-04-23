@@ -1,5 +1,5 @@
 /* application specific logic */
-
+/*test*/
 import 'jquery';
 import 'jquery-contextmenu';
 import 'jQuery-Impromptu';
